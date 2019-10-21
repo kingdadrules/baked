@@ -1,0 +1,72 @@
+{
+  "pools": [
+    {
+      "name": "baked:silvamcreeper",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }		
+      ]
+    },
+	{
+      "name": "baked:silvamcreeper",
+      "rolls": 1,
+      "entries": [        
+		{
+          "type": "item",
+          "name": "baked:silvammobheart",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+               "count": {
+                "min": 0,
+                "max": 1
+              } 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "baked:silvamcreeper",
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+        {
+          "condition": "random_chance_with_looting",
+          "chance": 0.10,
+          "looting_multiplier": 0.01
+        }
+      ],
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "baked:silvamyellowjewel",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

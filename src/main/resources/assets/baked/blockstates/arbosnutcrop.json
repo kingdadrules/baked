@@ -1,0 +1,50 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cross"
+    },
+    "variants": {
+        "age": {
+            "0": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop0"
+                }
+            },
+            "1": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop1"
+                }
+            },
+            "2": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop2"
+                }
+            },
+            "3": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop3"
+                }
+            },
+            "4": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop4"
+                }
+            },
+            "5": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop5"
+                }
+            },
+            "6": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop6"
+                }
+            },
+            "7": {
+                "textures": {
+                    "cross": "baked:blocks/arbosnutcrop/arbosnutcrop7"
+                }
+            }
+        }
+    }
+}

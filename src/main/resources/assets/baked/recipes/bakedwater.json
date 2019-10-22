@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilocreatio:hammer_iron",
+      "data": 32767
+    },
+    {
+      "item": "baked:waterstone"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "minecraft:water_bucket",
+    "data": 0
+  }
+}

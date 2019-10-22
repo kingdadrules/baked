@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CPC",
+    "CCC"
+  ],
+  "key": {
+    "C": 
+      {
+        "item": "baked:firecrabshell"
+       },
+    "P": 
+      {
+        "item": "baked:pearlglass"
+       }
+  },
+  "result": {
+    "item": "baked:crabshellhelmet"
+  }
+}

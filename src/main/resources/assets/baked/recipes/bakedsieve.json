@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XSX",
+    "# #"
+  ],
+  "key": {  
+    "X": {
+      "item": "baked:bakedcactus"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "#": 
+      {
+        "item": "baked:bakedstick"
+       }
+  },
+  "result": {
+   "item": "exnihilocreatio:block_sieve"
+  }
+}

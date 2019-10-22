@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:driedeggblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:driedeggpowder",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:insulablackjewelblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:insulablackjewel",
+    "count": 9
+  }
+}

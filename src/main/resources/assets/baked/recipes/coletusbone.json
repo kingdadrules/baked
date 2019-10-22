@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:coletusboneblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:coletusbone",
+    "count": 9
+  }
+}

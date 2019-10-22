@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DSD",
+    "SJS",
+    "DSD"
+  ],
+  "key": {  
+    "D": {
+      "item": "baked:caelumdirt"
+    },
+	 "J": {
+      "item": "baked:caelumpinkjewel"
+    },
+    "S": {
+      "item": "baked:caelumstone"
+    }
+  },
+  "result": {
+    "item": "baked:caelumdenseblock"
+  }
+}

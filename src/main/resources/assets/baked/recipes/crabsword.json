@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C",
+    "S"
+  ],
+  "key": {
+    "C": 
+      {
+        "item": "baked:firecrabshell"
+       },
+    "S": 
+      {
+        "item": "baked:bakedstick"
+       }
+  },
+  "result": {
+    "item": "baked:crabsword"
+  }
+}

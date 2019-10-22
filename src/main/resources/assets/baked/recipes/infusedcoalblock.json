@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPD",
+    "PBP",
+    "DPE"
+  ],
+  "key": {  
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+	"D": {
+      "item": "minecraft:diamond_block"
+    },
+	"P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": 
+      {
+        "item": "baked:bakednetherstar"
+       }
+  },
+  "result": {
+    "item": "minecraft:nether_star"
+  }
+}

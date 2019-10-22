@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "JFJ",
+     "FNF",
+     "JFJ"
+  ],
+  "key": {  
+    "J": {
+      "item": "baked:jewelblock"
+    },
+	"F": {
+      "item": "baked:fossilblock"
+    },
+    "N": {
+      "item": "baked:fossilnetherstar"
+    }
+  },
+  "result": {
+    "item": "baked:insulamodule"
+  }
+}

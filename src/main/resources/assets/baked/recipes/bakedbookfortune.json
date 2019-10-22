@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "PPP",
+    "SSS"
+  ],
+  "key": {  
+    "P": {
+      "item": "minecraft:paper"
+	},
+    "S": 
+      {
+        "item": "minecraft:sponge",
+		"data": 0      
+    }    
+  },
+  "result": {
+    "item": "baked:sievebookfortune"
+  }
+}

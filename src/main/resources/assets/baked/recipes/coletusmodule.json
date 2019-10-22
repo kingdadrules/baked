@@ -1,0 +1,26 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "JTJ",
+     "PBP",
+     "JTJ"
+  ],
+  "key": {  
+    "J": {
+      "item": "baked:jewelblock"
+    },
+	"P": {
+      "item": "baked:mushroomspore2block"
+    },
+	"T": {
+      "item": "baked:mushroomspore1block"
+    },
+    "B": {
+      "item": "baked:coletusboneblock"
+    }
+  },
+  "result": {
+    "item": "baked:coletusmodule"
+  }
+}

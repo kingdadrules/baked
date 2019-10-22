@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "IDI",
+    "###"
+  ],
+  "key": {  
+    "#": {
+      "item": "enderio:item_material",
+	  "data": 4
+	},
+    "I": 
+      {
+        "item": "minecraft:iron_ingot"
+       
+    },
+    "D": 
+      {
+        "item": "minecraft:obsidian"
+       }
+  },
+  "result": {
+    "item": "enderio:item_liquid_conduit",
+	"data": 0,
+    "count": 8
+  }
+}

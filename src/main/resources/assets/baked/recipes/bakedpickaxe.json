@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {  
+    "#": {
+      "item": "baked:bakedstick"
+    },
+    "X": 
+      {
+        "item": "baked:bakedcactus"
+       }
+  },
+  "result": {
+    "item": "baked:bakedpickaxe"
+  }
+}

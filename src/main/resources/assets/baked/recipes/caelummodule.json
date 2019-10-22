@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "JFJ",
+     "FCF",
+     "JFJ"
+  ],
+  "key": {  
+    "J": {
+      "item": "baked:jewelblock"
+    },
+	"F": {
+      "item": "baked:skyfruitblock"
+    },
+    "C": {
+      "item": "baked:caelumiteblock"
+    }
+  },
+  "result": {
+    "item": "baked:caelummodule"
+  }
+}

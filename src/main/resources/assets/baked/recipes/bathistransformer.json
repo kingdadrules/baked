@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:transformer"
+    },
+    {
+      "item": "baked:bathismodule"
+    }
+  ],  
+  "result": {
+    "item": "baked:transformerbathis"
+  }
+}

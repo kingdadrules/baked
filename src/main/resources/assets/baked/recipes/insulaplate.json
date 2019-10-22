@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TLT",
+    "TTT"
+  ],
+  "key": {  
+    "T": {
+      "item": "baked:insulatwigs"
+    },
+	 "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {  
+    "item": "baked:insulaplate",
+    "count": 1
+  }
+}

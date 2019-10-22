@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "###",
+     "###",
+     "###"
+  ],
+  "key": {  
+    "#": {
+      "item": "baked:insulablackjewel"
+    }
+  },
+  "result": {
+    "item": "baked:insulablackjewelblock"
+  }
+}

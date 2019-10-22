@@ -1,0 +1,16 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "##",
+     "##"
+  ],
+  "key": {  
+    "#": {
+      "item": "baked:arbosbluejewelcrushed"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

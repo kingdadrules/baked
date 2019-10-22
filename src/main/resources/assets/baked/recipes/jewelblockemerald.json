@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:jewelblock"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 2
+  }
+}

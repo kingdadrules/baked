@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "PPP",
+    "SSS"
+  ],
+  "key": {  
+    "P": {
+      "item": "minecraft:paper"
+	},
+    "S": 
+      {
+        "item": "minecraft:slime"       
+    }    
+  },
+  "result": {
+    "item": "baked:sievebookefficiency"
+  }
+}

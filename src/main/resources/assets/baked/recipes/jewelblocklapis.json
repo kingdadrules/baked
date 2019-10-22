@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:jewelblock"
+    },
+    {
+      "item": "baked:silvamyellowjewelblock"
+    },
+    {
+      "item": "baked:arbosgreenjewelblock"
+    }
+  ],  
+  "result": {
+    "item": "minecraft:lapis_block",
+    "count": 4
+  }
+}

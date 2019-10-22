@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:bathisleadblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:bathisleadingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:arbosbluejewelblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:arbosbluejewel",
+    "count": 9
+  }
+}

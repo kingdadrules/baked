@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:caelumiteingot"
+    }
+  ],  
+  "result": {
+    "item": "baked:caelumitenugget",
+    "count": 9
+  }
+}

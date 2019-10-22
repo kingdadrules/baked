@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilocreatio:hammer_iron",
+      "data": 32767
+    },
+    {
+      "item": "baked:lavastone"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lava_bucket",
+    "data": 0
+  }
+}

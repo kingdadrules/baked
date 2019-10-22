@@ -2,36 +2,17 @@
 NOTE .... Because of the way structures are generated, You must stop & restart minecraft before you create another world, 
 even if you delete & reuse a world name.
 
-
 Overall Story
 -------------
-
 
 
 Each world has what you need to build a portal to the next one. Portals from these worlds all lead back to baked world.
 
 Press "J" (or b?) to manage waypoints.
 
-
-
-Baked - Desert world, Make potion of the sun
-Arbos - Big nut tree world, Make potion of nux
-Bathis - Ocean world, Make potion of the sea
-Silvum - Forest world, Make potion of the woods 
-Insula - Lava Islands world, Make potion of heat
-Caelum - Sky world, make potion of heaven
-Mons - Mountain world, make potion of the heavens 
-Coletus - Mushroom world, make potion of earth?
-Frigus - Cold world, make potion of cold 
-
-
-Craft all the potions together to make potion of returning, drink to return?
-conspiricy theory villager ... pay me emeralds & I will prove space pirates.... come around note from loony on you & in baked.
-
-=============================
-
 Portals only from baked world.
 Use right click to harvest.
+
 
 Overworld
 =========
@@ -395,42 +376,13 @@ Baked
   
   Craft 10 X Return Blocks with 1 X each portal blocks (8 blocks) + 1 X Nether Star.
   
-  Craft 8 X Mob Heart Blocks + 1 X Return Block into Homeworld Portal Block. Make 10 of them, construct portal, light it with Home World Portal 
-  Activator & return home.
+  Craft 8 X Mob Heart Blocks + 1 X Return Block into Homeworld Portal Block. Make 10 of them, construct portal, light it with Home World 
+  Portal Activator & return home.
+  
+  Ends up back in overworld in hospital / loony bin ... you are a loony cos you believe in space pirates.
  
   ***********************************************************
 
-
-  
-  
-   Ends up back in overworld in hospital / loony bin ... dr giving you tablets, etc .... your a loony cos you believe in space pirates?
-   Yes, so another dimension say 11 
- 
    Full inventory when given note? Can drop note on floor instead?
    
-   Sort out sieving levels 1 2 3 4  string flint iron diamond
-   
-  *******************************************************************
-  
-  
-  Path ......  Learn & implement RF generator, crusher/mill , Centrifuge / sieve. 
-			   Learn & implement dimension, world & biome generation.
-
-Code them all into baked as stand alone mod.
-
-			   
-testruin
-parseruin
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
  

@@ -1,0 +1,436 @@
+
+NOTE .... Because of the way structures are generated, You must stop & restart minecraft before you create another world, 
+even if you delete & reuse a world name.
+
+
+Overall Story
+-------------
+
+
+
+Each world has what you need to build a portal to the next one. Portals from these worlds all lead back to baked world.
+
+Press "J" (or b?) to manage waypoints.
+
+
+
+Baked - Desert world, Make potion of the sun
+Arbos - Big nut tree world, Make potion of nux
+Bathis - Ocean world, Make potion of the sea
+Silvum - Forest world, Make potion of the woods 
+Insula - Lava Islands world, Make potion of heat
+Caelum - Sky world, make potion of heaven
+Mons - Mountain world, make potion of the heavens 
+Coletus - Mushroom world, make potion of earth?
+Frigus - Cold world, make potion of cold 
+
+
+Craft all the potions together to make potion of returning, drink to return?
+conspiricy theory villager ... pay me emeralds & I will prove space pirates.... come around note from loony on you & in baked.
+
+=============================
+
+Portals only from baked world.
+Use right click to harvest.
+
+Overworld
+=========
+
+Find a village & build it up (1 villager per 10 extra doors) until it generates a "spot the loony" villager.
+
+Enjoy yur conversation. Sell to other villagers to get emeralds. Trade these with the loony to get a Pirate Divining Rod.
+He will upgrade his trades to include the Pirate Beacon.
+Buy the bacon with emeralds (you can right click rod to turn it into a troll block). Loony will upgrade his trade to include pirate apples.
+Eat the apple, it's drugged.
+The pirates will kidnap you, hold you to randsom then eventually ditch you on the Baked world, with nothing but the clothes you wear.
+
+
+Baked
+=====
+
+- Collect about 10 baked dirt blocks for shelter
+- Collect lichen to eat
+- Collect all dead ender cactus you can, these drop dried enderseed, used to grow ender lillies.
+- Collect 33? baked cactus to make:
+
+4 table
+2.5 sword
+2 spade
+4 pickaxe
+7 wooden barrel
+5 sieve
+8 for compost (can be replaced with mob drops if you kill them).
+
+
+- Collect 9 string to make mesh.
+
+- Build a basic base.
+
+- Make wooden barrel & fill with dead catcus / mob drops to make a dirt block.
+
+- Make sieve & start sieving baked dirt to get pebbles, make cobblestone for furnace.
+
+- Sieve baked dirt until you have a sapling, plant it on dirt block.
+
+- Use wood and cobble tools to keep you going. Use saplings to compost more dirt.
+
+- Plant another sapling away from other trees.
+
+- Make a crook & use this on all tree leaves to get silkworm. Right click silkworm on leaves to infest the seperate tree.
+
+- When the tree is fully infested, harvest with crook to get string. Replant tree with saplings from standard farm.
+
+- You will need 50+ iron ingots now, you can get them 2 ways:   40
+
+	- Clinker blocks can be smelted to make clinker, 9 clinker = 1 iron ingot (mined between levels 45-60).
+	- You can sieve Baked Dirt, make cobblestone,  hammer it into gravel & sieve it for iron ore pieces, craft into iron ore chonks and smelt.  
+
+- Go mining for 1 X lavastone (level 1 to 11) & 3 waterstone (level 20 to 40).	
+
+- Make lava bucket.
+
+- Make 2 water bucket & use to make a permanent water source.
+
+- Make stone barrel & fill it with water. Add baked clinker to make baked noteium dust. Craft into a block then with string to make 
+  Old Automation notes for Baked world.
+
+- Make crucible & place over lava for heat source. Clay block from water & dust in stone barrel , breaks down into 4 clay balls.
+
+- Use crucible to melt cobblestone to make lava.
+
+- Feed this lava into a stone barrel & place running water on top to generate obsidian.
+  This process is slow until you can upgrade the heat source, so get it in place as soon as you can (you will need 40 obsidian).
+
+- Smelt 5 lava buckets to make 15 flint, use these to make a flint reinforced and an iron reinforced mesh.
+
+- Flint can also be obtained by breaking gravel.
+
+- You need to make a resonator & manual mill to make burnt stone to make water mill to power item transport system & machines. 
+
+- Make flint & steel, go to bedrock & light bedrock for infinity dust.
+
+- Power source is Simple Stirling Generator, crusher is simple sag mill.
+
+- Crush / hammer cobblestone to make gravel, gravel to make sand, sand to make dust.
+
+- Sieve dust, sand, gravel to get everything you need.
+
+- As soon as you can, start automating using:
+
+  - Simple cobblestone generators to produce cobble.
+  - SAG mills to crush cobble,gravel,sand & make dust.
+  - Auto Sieves to automate sieving.
+  - Simple Stirling Generators for power.
+  - Coal as fuel from sieving gravel using flint mesh supplemented by charcoal from smelting logs.
+  - Item, fluid & energy conduits for piping items, fluids & power distribution.
+  
+ - After obtaining slime from Arbos you can make & apply enchanted efficiency books to sieves.
+ 
+ - After obtaining sponge from Bathis you can make & apply enchanted fortune books to sieves.
+
+- Fill stone barrel with lava & add glowstone dust to make ender stone to plant ender seeds on.
+
+- Craft dehydrated ender seed with water bucket for ender seeds & plant them (the enderstone must be hoed).
+
+- Next target is 40 X obsidian, 10 X lapis blocks, 29 diamonds & 56 emeralds, 8 iron blocks, 1 redstone block,  to build & activate
+  the portal to Arbos. 
+
+  Craft an arbos portal key using 4 emerald blocks and a diamond block then craft this with a portal handle & power supply into an arbos portal activator.
+  Make 10 X portal blocks then craft arbos activator with blocks to tune them to Arbos, build portal, use activator to light it & go through.
+  
+  From each world from now on you will need to kill monsters & collect 80 mob hearts. You can always build mob farms.
+  
+  Arbos
+  =====
+  Get oil nuts from tall trees & crush them for crushed nuts. Craft 9 X Crushed nuts into nut blocks. Nut blocks + coal blocks = infused coal = great fuel.
+  Resulting nut dust (50% chance) sieved gives nut seeds (1 in 50 chance, normal sieve) ....plant in dirt to grow nuts + bonus seeds (1 in 20).
+  You can also get seeds by sieving arbos fungal block (1 in 200 chance).
+  
+  Infused coal works as a double speed heat source for crucibles.
+  
+  THe fungal trunk can be crushed into coal & slimeballs.
+  
+  Mine Arbos blue / green jewel ore for jewels, crush these for crushed green / blue jewel + jewel dust. Jewel dust in barrel of lava gives jewel block. Jewel block crafted with diamond/enerald gives diamond/emerald. 4 X Crushed jewels can be crafted into diamonds or emeralds.
+  Arbos creepers drop gunpowder .. arbos nuts when killed (1 in 10).
+  Arbos skeletons drop bones .. blue jewels when killed (1 in 10).
+  Arbos witches drop redstone ... blue jewels when killed (1 in 10).
+  Arbos spiders drop spider eyes ... green jewels when killed (1 in 10).
+  Arbos zombie drop rotten flesh .. green jewels when killed (1 in 10). 
+  
+  
+  Go fishing & get 4 each of 4 fish types + 20 ink sacs..  craft into 4 ocean blocks then craft these with a blue jewel block into a bathis portal key.
+  
+  Craft bathis portal key with portal activator handle and portal activator power supply into a bathis portal activator.
+  
+  Make 10 portal blocks & craft them with bathis portal activator to tune them into bathis return to Baked & construct & activate portal.
+   
+  bathis
+  ======
+ 
+  This world is entirely deep ocean. Take loads of fences with you + 32 blocks + 32 ladders. Jump to ocean bottom & use fences for breathing.
+  
+  Firecrab shell... harvest from sea bottom .. 8 shells + glass crafts crabshell diving helmet (respiration 3).
+  
+  Mine bathis lead ore from under sea bottom... 2 shells + 2 lead ingots craft crabshell diving boots (depth strider 3).
+  
+  8 shells with infused coal in middle = cold magma block. put in barrel of lava to get magma. Magma can be put under crucible as X 4 speed heat source.
+   
+  Mine bathis red jewel ore for jewels, crush these for crushed red jewel + jewel dust. Jewel dust in barrel of lava gives jewel block. Jewel block crafted with redstone gives redstone. 4 X Crushed jewels can be crafted into redstone.
+  
+  silvam skeletons drop bones .. red jewel when killed (1 in 10).
+ 
+  Craft crabshell leggings & chestplate for a full set (between iron & diamond) & crab sword(good one).
+  
+  Craft 1 block green jewel, 2 blocks blue jewel, 1 block red jewel & 1 baked stick into an Inactive Transformer.
+  
+  Collect 4 X bathis weed, crush it into dust then craft it to make bathis weed block. 
+
+  Craft 4 bathis weed blocks with 5 branch corals to make Tuneable bathis Block.
+  
+  Sieve bathis weed block to get sponge (1 in 10).
+  
+  Collect & crush 4 X firecrab shell into dust, then craft into crabshell block. 
+  
+  Craft crabshell block + 4 X red jewel blocks to make bathis transformer module. Craft this with transformer to make bathis transformer.
+  
+  Right click Tuneable bathis Block with transformer to make silvam key Block, make 4 of these then craft with a red jewel block to make silvam portal key then
+  craft silvam portal activator with silvam portal key, portal activator base & portal activator power supply.  
+  You will need a diamond pickaxe to harvest the key blocks after right clicking them.
+  
+  Make 10 portal blocks then craft with silvam activator to tune them to silvam, return to Baked & construct & activate portal.  
+  
+  Silvam
+  ======
+  
+  Climb trees & get Silvam nests, they break into baked sticks & give silvam eggs.
+  
+  Find Silvam flame plants. They give silvam flame fruits + 1 in 10 give silvam flame plant seeds. 
+  You can also get seeds by sieving silvam jungle soil ( 1 in 100 chance, normal sieve).
+  
+  Mine silvam yellow jewel ore for jewels, crush these for crushed yellow jewel + jewel dust. Jewel dust in barrel of lava gives jewel block.
+  Craft yellow jewel block, green jewel block + jewel block into 4 lapis blocks. 4 X crushed yellow jewel gives glowstone dust.
+  
+  Plant silvam flame seeds to get Silvam flame fruit + extra seeds (1 in 20 chance).
+        
+  Crush Silvam flame fruit into crushed flame fruit + bonus seeds.
+
+  Craft 9 X crushed flame fruit into flame fruit blocks.
+  
+  Silvam wood can be smelted in a furnace to give 2 x coal for light wood & 1 X coal for dark wood.
+  
+  Flame fruit blocks crafted with infused coal gives super infused coal, much better fuel.
+  
+  Super infused coal works as a X 8 speed heat source for crucibles.
+  
+  Craft 1 block green jewel, 2 blocks blue jewel, 1 block red jewel & 1 baked stick into Inactive Transformer.
+
+  Crush eggs to make dried egg powder + crushed egg shells. 
+  
+  9 X dried egg powder = 1 X dried egg block.
+  9 X crushed egg shells = egg shell block.
+  
+  Sieve dried egg blocks to get feathers (1 per block).  
+
+  Craft dried egg blocks with rotten flesh to get rotten blocks. Smelt rotten blocks into leather.
+
+  Craft feathers & leather with egg shell blocks to make Tuneable Silvam Block.
+  
+  Craft dried egg block + 4 X Silvam Yellow Jewel blocks to make silvam transformer module. Craft this with transformer to make Silvam transformer.
+  
+  Right click Tuneable Silvam Block with silvam transformer to make Insula key block... make 4 of them, craft with yellow jewel block
+  to make Insula portal key then craft Insula portal activator with Insula portal key, portal activator base & portal activator power supply.
+  
+  Make 10 portal blocks then craft with Insula activator to tune them to Insula, return to Baked & construct & activate portal. 
+  
+  
+  Insula
+  ======
+  
+  You can't take water buckets into Insula.
+  
+  Bridge to islands and get 32 insula twigs. These can be crafted with 4 leather to make Insula Raw Plate, which can be smelted to make Insula 
+  Baked Plate. These can be crafted into Insula Plate Boots, which will make you immune from lava/fire damage whilst wearing them.
+  
+  You can make the rest of the Insula armour set in the same way, it's very durable & about as good as a diamond set.
+  
+  You can now decend through the lava to until you are standing on a solid floor at level 32ish. Mine down 3+ blocks then mind horizontally
+  until you are in a lava free tunnel. 
+  
+  You now need to collect 80 Insula Black Jewels and 80 Insula White Jewels. These can also be obtained by crushing Insula Red
+  Stone to Red Stone Dust & Insula Red Dirt to Red Dirt Dust, then sieving Red Stone Dust to get Crushed White Jewels (1 in 10 chance) & 
+  Red Dirt Dust to get Crushed Black Jewels (1 in 5 chance). 4 crushed jewels craft to one jewel. 4 jewels craft into a black or white jewel block.
+  
+  They can also be mined from underneath the lava sea, but are not that common.
+  
+  You can also mine Insula Fire Blocks from the bottom & use them as X 16 heat sources for crucibles.
+  
+  Craft Black Jewels & White Jewels into blocks, then these blocks craft with 4 X diamond blocks & 1 X Emerald block into Tunable Insula Blocks
+  (you will need 4).
+  
+  Mine Insula Fossil Stone from under the sea floor, crush to get Fossil Twigs (1 in 10) & Fossil Nether Stars (1 in 50).
+  4 X Fossil Twigs craft into 1 Fossil Block. Craft  4 X Fossil Blocks, 4 X Jewel Blocks & 1 X Fossil Nether Star to make Insula transformer module. 
+  Craft this with transformer to make Insula transformer.
+   
+  Right click Tuneable Insula Block with Insula transformer to make Caelum key block... make 4 of them, craft with white jewel block
+  to make Caelum portal key then craft Caelum portal activator with Caelum portal key, portal activator base & portal activator power supply.
+  
+  Make 10 portal blocks then craft with Caelum activator to tune them to Caelum, return to Baked & construct & activate portal. 
+    
+  Caelum
+  ======
+  
+  Mine Caelum Pink Jewels & Caelumite Ore. Crush pink Jewels into Crushed Pink Jewels and Jewel Dust. Jewel dust in barrel of lava gives jewel block.
+  9 X crushed Pink Jewels gives Redstone block.
+  
+  4 X Caleum dirt, 4 X Caleum stone + 1 X Caleum Pink Jewel craft to a Caelum Dense block, this crushes to Caelum Dust, this sieves to give
+  Caelum Sky Fruit Seeds (1 in 20). These planted grow into Caleum Sky Fruit. 9 X Caleum Sky Fruit craft into Sky Fruit Block. 
+  
+  Sky fruit blocks crafted with super infused coal gives mega infused coal, much better fuel.
+  
+  Mega infused coal blocks can be used as 32X hat sources for crucible.
+  
+  Craft Caelum Pink Jewels into blocks, then these blocks craft with 4 X diamond blocks & 1 X Emerald block into Tuneable Caelum Blocks
+  (you will need 4).   
+  
+  Caelumite ore smelts into Caelumite nuggets. 9 of these make a Caelumite ingot, 9 ingots make a block.
+	
+  Craft 4 X Sky Fruit Blocks,  4 X Jewel Blocks & 1 X Caleumite Block to make Caelum transformer module. 
+  Craft this with transformer to make Caelum transformer.
+  
+  Right click Tuneable Caelum Block with Caelum transformer to make Mons key block... make 4 of them, craft with pink jewel block
+  to make Mons portal key then craft Mons portal activator with Mons portal key, portal activator base & portal activator power supply.
+  
+  Make 10 portal blocks then craft with Mons activator to tune them to Mons, return to Baked & construct & activate portal. 
+    
+  
+  Mons
+  ====
+  
+  Mine 2 - 28 for Mons Heavy Ore, 100 - 140 for Mons Medium Ore, 220 - 250 for Mons Light Ore, 80-100 & 160-180 for Mons Rainbow Jewel Ore.
+  Search 240 - 255 for Mons Eagle Stone. 4 X Mons Eagle Stone craft into a Mons Eagle Stone Block.
+   
+  Crush Light/Medium/Heavt ores to get Mons Heavy/Medium/Light ingot & Mons Dust.
+ 
+  Sieve Mons dust to get Mons Nitre (5% chance). Put Mons Nitre in barrel of lava to get Mons Magma, 4 X heat source for crucibles.
+
+  Craft 9 of these into Mons Heavy/Medium/Light blocks & Mons Rainbow Jewel Blocks.
+
+  2 X Mons Heavy Blocks + 2 X  Mons Rainbow Jewel Blocks craft into Mons Boots
+
+  5 X Mons Medium Blocks  + 2 X  Mons Rainbow Jewel Blocks craft into Mons Leggings.
+
+  3 X Mons Medium Blocks, 3 X Mons Light Blocks + 2 X  Mons Rainbow Jewel Blocks craft into Mons Chestplate
+
+  3 X Mons Light Blocks + 2 X  Mons Rainbow Jewel Blocks craft into Mons Helmet.
+ 
+  2 X Mons Rainbow Jewel Blocks + 1 X Mons Eagle Stone Block craft into Mons Sword.
+ 
+  Craft 2 X Mons Rainbow Jewel Blocks, 1 X Mons Light Block, 1 X Mons Medium Block, 4 X diamond blocks & 1 X Emerald block into Tunable Mons Blocks
+  (you will need 4).
+  
+  Craft 4 X Mons Heavy Blocks, 4 X Jewel Blocks & 1 X Eagle Stone Block to make Mons transformer module. 
+  Craft this with transformer to make Mons transformer.
+  
+  Right click Tuneable Mons Block with Mons transformer to make Mons key block... make 4 of them, craft with rainbow jewel block
+  to make Coletus portal key then craft Coletus portal activator with Coletus portal key, portal activator base & portal activator power supply.
+  
+  Make 10 portal blocks then craft with Coletus activator to tune them to Coletus, return to Baked & construct & activate portal. 
+    
+	
+  Coletus
+  =======
+  
+  Collect Puff Ball Spores by mining the middles of large & small Puff Balls. Craft 9 X Puff Ball Spores into a block.
+  
+  Collect Tower Fungus Spores by mining the tops of Tower Fungus. Craft 9 X Tower Fungus Spores into a block.
+  
+  Collect Stick Fungus Stems & Caps. crush these to get Coletus Dust. Seive Coletus Dust to get Coletus Orange Jewels (25% chance).
+  
+  Craft 9 Coletus Orange Jewels into Blocks.
+  
+  You can mine Coletus Fire Blocks from levels 1-30 & use thm as 128X speed heat sorce for crucibles.
+  
+  Kill Coletus Cows to get Coletus bone, craft into Bone Block.
+  
+  Craft 4 X Coletus Orange Jewel Blocks, 4 X diamond blocks & 1 X Emerald block into Tunable Coletus Blocks (you will need 4).
+  
+  Craft 2 X Puff Ball Blocks, 2 X Tower Fungus Spore Blocks, 4 X Jewel Blocks & 1 X Coletus Bone Block to make Coletus transformer module. 
+  Craft this with transformer to make Coletus transformer.
+  
+  Right click Tuneable Coletus Block with Coletus transformer to make Frigus key block... make 4 of them, craft with orange jewel block
+  to make Frigus portal key then craft Frigus portal activator with Frigus portal key, portal activator base & portal activator power supply.
+  
+  Make 10 portal blocks then craft with Frigus activator to tune them to Frigus, return to Baked & construct & activate portal. 
+   
+   
+  Frigus
+  ======
+  
+  Mobs will not spawn on ice, so you need to build a mob farm to collect the 80 Frigus Mob Hearts you will need.
+  
+  Collect ice Flowers from Ice Plants, above frozen sea level. Make them into blocks.
+  
+  Look down through ice, locate Frigus Blue Ice & mine down to collect it. Make it into blocks.
+  
+  You can also mine Frigus fire blocks from levels 1-30 to make 256 X speed heat sources for crucibles.
+  
+  Mine Ice Crstals from Frigus Crystal Ice at 215 and above. These crush into Crushed Ice Crystals (75% chance) which can be made into blocks.
+  
+  Ice Crystal Blocks crush into Frigus Icy Dust (75% chance) which can be sieved to get Frigus Ice Jewel Fragments (20%) & Icy Strands (5%).
+  
+  4 X Frigus Ice Jewel Fragments craft into a Frigus Ice Jewel. 9 X Frigus Jewels craft into Frigus Ice Jewel Block.
+  
+  9 X Icy Strands craft into an Icy Strand Block.  
+  
+  Craft 3 X Ice Flower Blocks, 2 X Blue Ice Blocks, 3 X Frigus Ice Jewel Block & 1 X Icy Strand Block into Home World Portal Activator. 
+   
+  
+  Go back to Baked.
+  
+  
+  Back to Baked.
+  ==============
+  
+  Craft 1 each Mob hearts (8 types) + 1 X Eye of Ender into Mob Heart blocks. 
+  
+  Craft 10 X Return Blocks with 1 X each portal blocks (8 blocks) + 1 X Nether Star.
+  
+  Craft 8 X Mob Heart Blocks + 1 X Return Block into Homeworld Portal Block. Make 10 of them, construct portal, light it with Home World Portal 
+  Activator & return home.
+ 
+  ***********************************************************
+
+
+  
+  
+   Ends up back in overworld in hospital / loony bin ... dr giving you tablets, etc .... your a loony cos you believe in space pirates?
+   Yes, so another dimension say 11 
+ 
+   Full inventory when given note? Can drop note on floor instead?
+   
+   Sort out sieving levels 1 2 3 4  string flint iron diamond
+   
+  *******************************************************************
+  
+  
+  Path ......  Learn & implement RF generator, crusher/mill , Centrifuge / sieve. 
+			   Learn & implement dimension, world & biome generation.
+
+Code them all into baked as stand alone mod.
+
+			   
+testruin
+parseruin
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 

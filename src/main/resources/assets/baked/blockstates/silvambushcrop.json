@@ -1,0 +1,50 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cross"
+    },
+    "variants": {
+        "age": {
+            "0": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop0"
+                }
+            },
+            "1": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop1"
+                }
+            },
+            "2": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop2"
+                }
+            },
+            "3": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop3"
+                }
+            },
+            "4": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop4"
+                }
+            },
+            "5": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop5"
+                }
+            },
+            "6": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop6"
+                }
+            },
+            "7": {
+                "textures": {
+                    "cross": "baked:blocks/silvambushcrop/silvambushcrop7"
+                }
+            }
+        }
+    }
+}

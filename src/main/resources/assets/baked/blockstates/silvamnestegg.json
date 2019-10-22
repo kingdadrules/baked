@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": {
+            "model": "baked:silvamnestegg"
+        },
+        "inventory": {
+            "model": "baked:silvamnestegg"
+        }
+    }
+}

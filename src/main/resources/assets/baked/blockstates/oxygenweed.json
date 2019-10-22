@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "parent": "block/cross",
+    "defaults": {
+        "textures": {
+            "cross": "baked:blocks/oxygenweed"
+        }
+    },
+    "variants": {
+        "normal": {
+            "model": "cross"
+        },
+        "inventory": {
+            "model": "cross"
+        }
+    }
+}

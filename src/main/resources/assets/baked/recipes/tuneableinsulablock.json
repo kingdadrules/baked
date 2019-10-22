@@ -1,0 +1,26 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DWD",
+    "BEB",
+    "DWD"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+	"E": {
+      "item": "minecraft:emerald_block"
+    },
+	"W": {
+      "item": "baked:insulawhitejewelblock"
+    },
+    "B": {
+      "item": "baked:insulablackjewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:tuneableinsulablock"
+  }
+}

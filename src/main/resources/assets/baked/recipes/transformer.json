@@ -1,0 +1,26 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "BRB",
+     " G ",
+     " S "
+  ],
+  "key": {  
+    "B": {
+      "item": "baked:arbosbluejewelblock"
+    },
+    "R": {
+      "item": "baked:bathisredjewelblock"
+    },
+    "G": {
+      "item": "baked:arbosgreenjewelblock"
+    },
+    "S": {
+      "item": "baked:bakedstick"
+    }
+  },
+  "result": {
+    "item": "baked:transformer"
+  }
+}

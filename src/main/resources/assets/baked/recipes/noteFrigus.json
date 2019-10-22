@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:iceblock1"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],  
+  "result": {
+    "item": "baked:notefrigus1"
+  }
+}

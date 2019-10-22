@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EBE",
+    "EEE"
+  ],
+  "key": {  
+    "B": {
+      "item": "baked:sievebookfortune"
+	},
+    "E": 
+      {
+        "item": "minecraft:emerald"       
+    }    
+  },
+  "result": {
+      "type": "minecraft:item_nbt",
+      "item": "minecraft:enchanted_book",
+      "nbt": {
+        "StoredEnchantments": [
+          {
+            "id": 31,
+            "lvl": 3
+          }
+        ]
+      }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:arbostopblock"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],  
+  "result": {
+    "item": "baked:notearbos1"
+  }
+}

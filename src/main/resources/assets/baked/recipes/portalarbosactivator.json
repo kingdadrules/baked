@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K",
+    "P",
+    "H"
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:portalarboskey"
+    },
+    "P": {
+      "item": "baked:portalpowersource"
+    },
+    "H": {
+      "item": "baked:portalhandle"
+    }
+  },
+  "result": {
+    "item": "baked:portalarbosactivator"
+  }
+}

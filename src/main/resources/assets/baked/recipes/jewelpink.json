@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:caelumpinkjewelblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:caelumpinkjewel",
+    "count": 9
+  }
+}

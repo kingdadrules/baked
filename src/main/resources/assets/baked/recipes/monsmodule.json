@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "JFJ",
+     "FEF",
+     "JFJ"
+  ],
+  "key": {  
+    "J": {
+      "item": "baked:jewelblock"
+    },
+	"F": {
+      "item": "baked:fossilblock"
+    },
+    "E": {
+      "item": "baked:monseagleblock"
+    }
+  },
+  "result": {
+    "item": "baked:monsmodule"
+  }
+}

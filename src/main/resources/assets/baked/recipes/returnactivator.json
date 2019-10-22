@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "JJJ",
+    "BSB",
+    "FFF"
+  ],
+  "key": {  
+    "J": {
+      "item": "baked:icejewelblock"
+    },
+	"B": {
+      "item": "baked:iceblock6"
+    },
+    "S": {
+      "item": "baked:icystrandblock"
+    },
+    "F": {
+      "item": "baked:iceblock5"
+    }
+  },
+  "result": {
+    "item": "baked:returnactivator"
+  }
+}

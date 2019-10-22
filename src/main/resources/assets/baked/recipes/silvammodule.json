@@ -1,0 +1,20 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     " Y ",
+     "YEY",
+     " Y "
+  ],
+  "key": {  
+    "Y": {
+      "item": "baked:silvamyellowjewelblock"
+    },
+    "E": {
+      "item": "baked:driedeggblock"
+    }
+  },
+  "result": {
+    "item": "baked:silvammodule"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:transformer"
+    },
+    {
+      "item": "baked:silvammodule"
+    }
+  ],  
+  "result": {
+    "item": "baked:transformersilvam"
+  }
+}

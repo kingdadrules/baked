@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    "OBO",
+    " O "
+  ],
+  "key": {  
+    "O": {
+      "item": "baked:oceanblock"
+    },
+    "B": {
+      "item": "baked:arbosbluejewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalbathiskey"
+  }
+}

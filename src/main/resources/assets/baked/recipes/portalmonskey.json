@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " K ",
+    "KPK",
+    " K "
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:monskeyblock"
+    },
+    "P": {
+      "item": "baked:caelumpinkjewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalmonskey"
+  }
+}

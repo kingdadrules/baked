@@ -1,0 +1,29 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DRD",
+    "LEM",
+    "DRD"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+	"R": {
+      "item": "baked:monsrainbowjewelblock"
+    },
+	"L": {
+      "item": "baked:monslightblock"
+    },
+	"M": {
+      "item": "baked:monsmediumblock"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "baked:tuneablemonsblock"
+  }
+}

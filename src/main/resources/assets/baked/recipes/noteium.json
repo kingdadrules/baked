@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "CPC",
+    "PCP"
+  ],
+  "key": {  
+    "P": {
+      "item": "minecraft:paper"
+    },
+	"C": {
+      "item": "baked:clinker"
+    }
+  },
+  "result": {
+    "item": "baked:bakednoteium"
+  }
+}

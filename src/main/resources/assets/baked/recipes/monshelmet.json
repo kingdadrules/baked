@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "R R"
+  ],
+  "key": {   
+    "L": 
+      {
+        "item": "baked:monslightblock"
+       },
+  "R": 
+     {
+       "item": "baked:monsrainbowjewelblock"
+      }
+ },
+  "result": {
+    "item": "baked:monshelmet"
+  }
+}

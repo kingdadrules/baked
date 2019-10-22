@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:portalblock"
+    },
+    {
+      "item": "baked:portalcoletusactivator",
+      "data": 32767
+    }
+  ],  
+  "result": {
+    "item": "baked:portalcoletusblock"
+  }
+}

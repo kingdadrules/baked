@@ -1,0 +1,41 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "ABC",
+     "DNE",
+     "FGH"
+  ],
+  "key": {  
+	"A": {
+      "item": "baked:portalarbosblock"
+    },
+	"B": {
+      "item": "baked:portalbathisblock"
+    },
+	"C": {
+      "item": "baked:portalcaelumblock"
+    },
+	"D": {
+      "item": "baked:portalcoletusblock"
+    },
+	"E": {
+      "item": "baked:portalinsulablock"
+    },
+    "F": {
+      "item": "baked:portalmonsblock"
+    },
+    "G": {
+      "item": "baked:portalsilvamblock"
+    },
+	"H": {
+      "item": "baked:portalfrigusblock"
+    },
+	"N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "baked:returnblock"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:silvamunderfloor"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],  
+  "result": {
+    "item": "baked:notesilvam1"
+  }
+}

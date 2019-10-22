@@ -1,0 +1,34 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DWD",
+    "XDY",
+    "DZD"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:dye",
+      "data": 0
+    },
+    "W": {
+      "item": "minecraft:fish",
+      "data": 0
+    },
+    "X": {
+      "item": "minecraft:fish",
+      "data": 1
+    },
+    "Y": {
+      "item": "minecraft:fish",
+      "data": 2
+    },
+    "Z": {
+     "item": "minecraft:fish",
+     "data": 3
+       }
+  },
+  "result": {
+    "item": "baked:oceanblock"
+  }
+}

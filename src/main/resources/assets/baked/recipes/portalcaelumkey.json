@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CWC",
+    " C "
+  ],
+  "key": {  
+    "C": {
+      "item": "baked:caelumkeyblock"
+    },
+    "W": {
+      "item": "baked:insulawhitejewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalcaelumkey"
+  }
+}

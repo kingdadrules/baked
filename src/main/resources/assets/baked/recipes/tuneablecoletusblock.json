@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ODO",
+    "DED",
+    "ODO"
+  ],
+  "key": {  
+    "O": {
+      "item": "baked:coletusorangejewelblock"
+    },
+	 "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "baked:tuneablecoletusblock"
+  }
+}

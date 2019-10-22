@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"MMM",
+    "M M",
+    "R R"
+  ],
+  "key": {   
+    "M": 
+      {
+        "item": "baked:monsmediumblock"
+  	  },
+  "R": 
+     {
+       "item": "baked:monsrainbowjewelblock"
+      }
+ },
+  "result": {
+    "item": "baked:monsleggings"
+  }
+}

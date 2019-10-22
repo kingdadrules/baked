@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:bakedclinker"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],  
+  "result": {
+    "item": "baked:notebaked1"
+  }
+}

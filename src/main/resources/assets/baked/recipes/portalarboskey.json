@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "EDE",
+    " E "
+  ],
+  "key": {  
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "baked:portalarboskey"
+  }
+}

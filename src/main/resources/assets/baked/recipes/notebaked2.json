@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:noteiumblock"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],  
+  "result": {
+    "item": "baked:notebaked2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OEO",
+    "DLD",
+    "OEO"
+  ],
+  "key": {  
+    "L": {
+      "item": "minecraft:lapis_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "E": 
+      {
+        "item": "minecraft:emerald"
+       }
+  },
+  "result": {
+    "item": "baked:portalblock"
+  }
+}

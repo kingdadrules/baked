@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FEF",
+    "ELE",
+    "FEF"
+  ],
+  "key": {  
+    "E": {
+      "item": "baked:eggshellblock"
+    },
+	"L": {
+      "item": "minecraft:leather"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "baked:tuneablesilvamblock"
+  }
+}

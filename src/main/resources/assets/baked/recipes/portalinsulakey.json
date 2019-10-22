@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " K ",
+    "KYK",
+    " K "
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:insulakeyblock"
+    },
+    "Y": {
+      "item": "baked:silvamyellowjewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalinsulakey"
+  }
+}

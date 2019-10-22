@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " K ",
+    "KDK",
+    " K "
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:coletuskeyblock"
+    },
+    "D": {
+      "item": "baked:monsrainbowjewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalcoletuskey"
+  }
+}

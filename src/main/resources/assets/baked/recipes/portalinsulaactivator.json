@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K",
+    "P",
+    "H"
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:portalinsulakey"
+    },
+    "P": {
+      "item": "baked:portalpowersource"
+    },
+    "H": {
+      "item": "baked:portalhandle"
+    }
+  },
+  "result": {
+    "item": "baked:portalinsulaactivator"
+  }
+}

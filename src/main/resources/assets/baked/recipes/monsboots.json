@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "H H"
+  ],
+  "key": {   
+    "H": 
+      {
+        "item": "baked:monsheavyblock"
+       },
+     "R": 
+      {
+       "item": "baked:monsrainbowjewelblock"
+      }
+ },
+  "result": {
+    "item": "baked:monsboots"
+  }
+}

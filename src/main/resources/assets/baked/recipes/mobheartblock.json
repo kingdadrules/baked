@@ -1,0 +1,41 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+     "ABC",
+     "DME",
+     "FGH"
+  ],
+  "key": {  
+	"A": {
+      "item": "baked:arbosmobheart"
+    },
+	"B": {
+      "item": "baked:bathismobheart"
+    },
+	"C": {
+      "item": "baked:caelummobheart"
+    },
+	"D": {
+      "item": "baked:coletusmobheart"
+    },
+	"E": {
+      "item": "baked:insulamobheart"
+    },
+    "F": {
+      "item": "baked:monsmobheart"
+    },
+    "G": {
+      "item": "baked:silvammobheart"
+    },
+	"H": {
+      "item": "baked:frigusmobheart"
+    },
+	"M": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "baked:mobheartblock"
+  }
+}

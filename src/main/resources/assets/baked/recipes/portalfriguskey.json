@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " K ",
+    "KDK",
+    " K "
+  ],
+  "key": {  
+    "K": {
+      "item": "baked:friguskeyblock"
+    },
+    "D": {
+      "item": "baked:coletusorangejewelblock"
+    }
+  },
+  "result": {
+    "item": "baked:portalfriguskey"
+  }
+}

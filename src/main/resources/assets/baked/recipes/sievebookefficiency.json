@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DBD",
+    "DDD"
+  ],
+  "key": {  
+    "B": {
+      "item": "baked:sievebookefficiency"
+	},
+    "D": 
+      {
+        "item": "minecraft:diamond"       
+    }    
+  },
+  "result": {
+      "type": "minecraft:item_nbt",
+      "item": "minecraft:enchanted_book",
+      "nbt": {
+        "StoredEnchantments": [
+          {
+            "id": 30,
+            "lvl": 5
+          }
+        ]
+      }
+  }
+}

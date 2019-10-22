@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "PEP",
+    "DPD"
+  ],
+  "key": {  
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+	"P": {
+      "item": "baked:caelumpinkjewelblock"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "baked:tuneablecaelumblock"
+  }
+}

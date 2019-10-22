@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "baked:monsrainbowjewelblock"
+    }
+  ],  
+  "result": {
+    "item": "baked:monsrainbowjewel",
+    "count": 9
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NCN",
+    " N "
+  ],
+  "key": {  
+    "N": {
+      "item": "baked:skyfruitblock"
+    },
+    "C": 
+      {
+       "item": "baked:superinfusedcoalblock"
+       }
+  },
+  "result": {
+    "item": "baked:megainfusedcoalblock"
+  }
+}
